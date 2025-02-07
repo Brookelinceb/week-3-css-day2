@@ -1,34 +1,35 @@
-        body {
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            padding: 20px;
-            background-color: #5b0202;
-            text-align: center;
-            color: white;
-        }
+body
+{padding: 20px;
+background-color: red;
+text-align: center;
+color: white;
+font-family: sans-serif;
+text-size: 28px;
+}
 
-        h1 {
-            color: pink;
-            text-decoration: overline;
-            font-size: 28px;
-        }
+p
+{
+  color: #b31e1e;
+  font-size: 15px;
+line-height: 1.6;
+}
+h1 
+{
+    color: pink;
+    text-decoration: overline;
+font-size: 28px;
+}
+.highlight 
+{
+    font-size: 20px;
+    color: white;
+    background-color: blueviolet;
+    padding: 15px;
+    border-radius: 8px;
 
-        p {
-            color: #be9797;
-            font-size: 15px;
-            line-height: 1.6;
-        }
-
-        .highlight {
-            font-size: 20px;
-            color: white;
-            font-weight: bold;
-            background-color: #ff6347;
-            padding: 10px;
-            border-radius: 8px;
-        }
-
-        #unique {
-            background-color: yellow;
-            padding: 15px;
-            border: 8px double black;
-        }
+    
+}
+#unique 
+{ background-color: yellow;
+padding: 20px;
+border: 8px double black;
